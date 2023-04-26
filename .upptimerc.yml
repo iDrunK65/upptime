@@ -23,6 +23,33 @@ status-website:
   navbar:
     - title: Status
       href: /
+i18n:
+  url: "URL"
+  status: "Statut"
+  history: "Historique"
+  responseTime: "Temps de réponse"
+  uptime: "Disponibilité"
+  up: "🟩 En ligne"
+  degraded: "🟨 Dégradé"
+  down: "🟥 Hors ligne"
+  responseTimeGraphAlt: "Graphique du temps de réponse"
+  ms: "ms"
+  responseTime: "Temps de réponse"
+  responseTimeDay: "Temps de réponse sur 24 heures"
+  responseTimeWeek: "Temps de réponse sur 7 jours"
+  responseTimeMonth: "Temps de réponse sur 30 jours"
+  responseTimeYear: "Temps de réponse sur 1 an"
+  uptime: "Disponibilité totale"
+  uptimeDay: "Disponibilité sur 24 heures"
+  uptimeWeek: "Disponibilité sur 7 jours"
+  uptimeMonth: "Disponibilité sur 30 jours"
+  uptimeYear: "Disponibilité sur 1 an"
+  liveStatus: "Statut en direct"
+  liveStatusHtmlComment: "<!--statut en direct-->"
+  allSystemsOperational: "🟩 Tous les systèmes sont opérationnels"
+  degradedPerformance: "🟨 Performance dégradée"
+  completeOutage: "🟥 Panne totale"
+  partialOutage: "🟧 Panne partielle"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
