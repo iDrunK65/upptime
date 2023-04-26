@@ -11,8 +11,6 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: idrunk65.github.io
   baseUrl: /upptime
-  apiBaseUrl: https://api.github.com
-  userContentBaseUrl: https://raw.githubusercontent.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: iUptime
   introTitle: ""
