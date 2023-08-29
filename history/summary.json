@@ -22,19 +22,19 @@
     "url": "https://forum.uraniumcommunity.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.uraniumcommunity.com.ico",
     "slug": "uranium-community-forum",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 662,
-    "timeDay": 619,
-    "timeWeek": 664,
-    "timeMonth": 644,
+    "timeDay": 639,
+    "timeWeek": 666,
+    "timeMonth": 645,
     "timeYear": 662,
     "dailyMinutesDown": {
-      "2023-08-29": 0
+      "2023-08-29": 11
     }
   },
   {
