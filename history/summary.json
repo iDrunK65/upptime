@@ -4,19 +4,19 @@
     "url": "https://uraniumcommunity.com",
     "icon": "https://icons.duckduckgo.com/ip3/uraniumcommunity.com.ico",
     "slug": "uranium-community",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.99%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.15%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.98%",
     "time": 609,
-    "timeDay": 276,
-    "timeWeek": 455,
-    "timeMonth": 632,
+    "timeDay": 386,
+    "timeWeek": 472,
+    "timeMonth": 631,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2023-09-15": 19
+      "2023-09-15": 41
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://forum.uraniumcommunity.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.uraniumcommunity.com.ico",
     "slug": "uranium-community-forum",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 581,
-    "timeWeek": 548,
-    "timeMonth": 664,
-    "timeYear": 663,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.46%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.95%",
+    "uptimeYear": "99.99%",
+    "time": 662,
+    "timeDay": 547,
+    "timeWeek": 544,
+    "timeMonth": 659,
+    "timeYear": 662,
     "dailyMinutesDown": {
-      "2023-09-15": 0
+      "2023-09-15": 22
     }
   },
   {
