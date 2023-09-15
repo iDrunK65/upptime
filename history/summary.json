@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/uraniumcommunity.com.ico",
     "slug": "uranium-community",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.68%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 609,
     "timeDay": 276,
     "timeWeek": 455,
     "timeMonth": 632,
     "timeYear": 609,
     "dailyMinutesDown": {
-      "2023-09-15": 0
+      "2023-09-15": 19
     }
   },
   {
@@ -24,7 +24,7 @@
     "url": "https://forum.uraniumcommunity.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.uraniumcommunity.com.ico",
     "slug": "uranium-community-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -35,7 +35,9 @@
     "timeWeek": 548,
     "timeMonth": 664,
     "timeYear": 663,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-15": 0
+    }
   },
   {
     "name": "Uranium Community - Boutique",
