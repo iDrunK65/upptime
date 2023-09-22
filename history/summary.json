@@ -6,17 +6,16 @@
     "slug": "uranium-community",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
     "uptimeYear": "99.97%",
     "time": 607,
-    "timeDay": 477,
-    "timeWeek": 533,
-    "timeMonth": 627,
+    "timeDay": 470,
+    "timeWeek": 549,
+    "timeMonth": 632,
     "timeYear": 607,
     "dailyMinutesDown": {
-      "2023-09-21": 11,
       "2023-09-20": 21,
       "2023-09-15": 41
     }
@@ -32,11 +31,11 @@
     "uptimeWeek": "99.78%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 660,
-    "timeDay": 574,
-    "timeWeek": 592,
-    "timeMonth": 646,
-    "timeYear": 660,
+    "time": 659,
+    "timeDay": 488,
+    "timeWeek": 581,
+    "timeMonth": 647,
+    "timeYear": 659,
     "dailyMinutesDown": {
       "2023-09-15": 22
     }
@@ -53,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.90%",
     "time": 961,
-    "timeDay": 1762,
-    "timeWeek": 1016,
-    "timeMonth": 974,
+    "timeDay": 954,
+    "timeWeek": 1039,
+    "timeMonth": 977,
     "timeYear": 961,
     "dailyMinutesDown": {
       "2023-04-29": 771,
