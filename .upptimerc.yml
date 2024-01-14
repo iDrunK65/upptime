@@ -23,6 +23,55 @@ status-website:
   navbar:
     - title: Status
       href: /
+i18n:
+  activeIncidents: Incidents en cours
+  allSystemsOperational: Tous les systèmes sont opérationnels
+  incidentReport: "Rapport d'incident #$NUMBER →"
+  activeIncidentSummary: Ouvert le $DATE avec $POSTS publications
+  incidentTitle: Détails de l'incident $NUMBER
+  incidentDetails: Détails de l'incident
+  incidentFixed: Résolu
+  incidentOngoing: En cours
+  incidentOpenedAt: Ouvert à
+  incidentClosedAt: Fermé à
+  incidentViewOnGitHub: Voir et s'abonner sur GitHub
+  incidentCommentSummary: Publication le $DATE par $AUTHOR
+  incidentBack: ← Retour à tous les incidents
+  pastIncidents: Incidents passés
+  pastIncidentsResolved: Résolu en $MINUTES minutes avec $POSTS publications
+  liveStatus: Statut en direct
+  overallUptime: "Disponibilité globale : $UPTIME"
+  overallUptimeTitle: Disponibilité globale
+  averageResponseTime: "Temps de réponse moyen : $TIMEms"
+  averageResponseTimeTitle: Temps de réponse moyen
+  sevelDayResponseTime: Temps de réponse sur 7 jours
+  responseTimeMs: Temps de réponse (ms)
+  up: En ligne
+  down: Hors ligne
+  degraded: Dégradé
+  ms: ms
+  loading: Chargement en cours
+  navGitHub: GitHub
+  footer: Cette page est open source, alimentée par Upptime
+  rateLimitExceededTitle: Limite de taux dépassée
+  rateLimitExceededIntro: Vous avez dépassé le nombre de requêtes que vous pouvez effectuer en une heure, vous devrez donc attendre avant de pouvoir accéder à ce site Web à nouveau. Alternativement, vous pouvez ajouter un jeton d'accès personnel GitHub pour continuer à utiliser ce site.
+  rateLimitExceededWhatDoesErrorMean: Que signifie cette erreur ?
+  rateLimitExceededErrorMeaning: Ce site Web utilise l'API GitHub pour accéder aux données en temps réel sur l'état de nos sites Web. Par défaut, GitHub permet à chaque adresse IP 60 requêtes par heure, que vous avez consommées.
+  rateLimitExceededErrorHowCanFix: Comment puis-je le résoudre ?
+  rateLimitExceededErrorFix: Vous pouvez attendre une heure supplémentaire et la limite de votre adresse IP sera restaurée. Alternativement, vous pouvez ajouter votre jeton d'accès personnel GitHub, qui vous donne 5 000 requêtes supplémentaires par heure.
+  rateLimitExceededGeneratePAT: Apprenez à générer un jeton d'accès personnel
+  rateLimitExceededHasSet: Vous avez défini un jeton d'accès personnel.
+  rateLimitExceededRemoveToken: Supprimer le jeton
+  rateLimitExceededGitHubPAT: Jeton d'accès personnel GitHub
+  rateLimitExceededCopyPastePAT: Copiez et collez votre jeton
+  rateLimitExceededSaveToken: Enregistrer le jeton
+  errorTitle: Une erreur s'est produite
+  errorIntro: Une erreur s'est produite en essayant d'obtenir les derniers détails d'état.
+  errorText: Vous pouvez réessayer dans quelques instants.
+  errorHome: Aller à la page d'accueil
+  pastScheduledMaintenance: Maintenance planifiée passée
+  scheduledMaintenance: Maintenance planifiée
+  scheduledMaintenanceSummaryStarted: Débutée le $DATE pendant $DURATION minutes
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
