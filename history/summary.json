@@ -30,9 +30,9 @@
     "url": "https://forum.uraniumcommunity.com",
     "icon": "https://icons.duckduckgo.com/ip3/forum.uraniumcommunity.com.ico",
     "slug": "uranium-community-forum",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.79%",
+    "uptimeDay": "97.78%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
@@ -42,6 +42,7 @@
     "timeMonth": 624,
     "timeYear": 661,
     "dailyMinutesDown": {
+      "2024-03-13": 0,
       "2024-03-12": 32,
       "2023-09-15": 22
     }
@@ -53,9 +54,9 @@
     "slug": "uranium-community-boutique",
     "status": "down",
     "uptime": "99.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.66%",
     "uptimeYear": "99.00%",
     "time": 1111,
     "timeDay": 1175,
@@ -63,7 +64,7 @@
     "timeMonth": 1285,
     "timeYear": 1111,
     "dailyMinutesDown": {
-      "2024-03-13": 0,
+      "2024-03-13": 20,
       "2024-03-10": 103,
       "2024-03-03": 28,
       "2023-04-29": 771,
